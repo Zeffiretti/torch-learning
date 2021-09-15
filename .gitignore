@@ -133,3 +133,6 @@ dmypy.json
 
 # vim generation files
 *tags*
+
+# logs directory
+*log*
