@@ -136,3 +136,9 @@ dmypy.json
 
 # logs directory
 *log*
+
+# mnist data
+*mnist*
+
+# vscode setting directory
+.vscode/
